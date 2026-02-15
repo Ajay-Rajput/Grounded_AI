@@ -1,0 +1,19 @@
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers.
+
+Artificial Neural Networks are inspired by the human brain and consist of:
+- Input layer
+- Hidden layers
+- Output layer
+
+Popular deep learning architectures include:
+- Convolutional Neural Networks (CNNs) for image processing
+- Recurrent Neural Networks (RNNs) for sequential data
+- Transformers for natural language processing
+
+Backpropagation is used to train neural networks by minimizing loss using gradient descent.
+
+Activation functions include:
+- ReLU
+- Sigmoid
+- Tanh
+- Softmax

@@ -1,0 +1,17 @@
+Natural Language Processing (NLP) is a field of AI focused on enabling computers to understand and generate human language.
+
+Key NLP tasks include:
+- Text classification
+- Named Entity Recognition (NER)
+- Machine Translation
+- Sentiment Analysis
+- Question Answering
+
+Transformers revolutionized NLP. The attention mechanism allows models to focus on important words in a sentence.
+
+Popular NLP models:
+- BERT
+- GPT
+- T5
+
+Tokenization is the process of splitting text into smaller units called tokens.

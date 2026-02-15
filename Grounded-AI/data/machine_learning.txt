@@ -1,0 +1,20 @@
+Machine Learning is a subset of Artificial Intelligence that enables systems to learn from data without being explicitly programmed.
+
+There are three main types of Machine Learning:
+1. Supervised Learning
+2. Unsupervised Learning
+3. Reinforcement Learning
+
+Supervised Learning uses labeled data. Common algorithms include:
+- Linear Regression
+- Logistic Regression
+- Decision Trees
+- Support Vector Machines
+- Neural Networks
+
+Unsupervised Learning works with unlabeled data. Examples include:
+- K-Means Clustering
+- Hierarchical Clustering
+- Principal Component Analysis (PCA)
+
+Reinforcement Learning involves agents learning from rewards and penalties.

@@ -1,0 +1,16 @@
+Vector databases store embeddings for efficient similarity search.
+
+Embeddings convert text into numerical vector representations.
+
+Common vector databases include:
+- FAISS
+- Pinecone
+- Weaviate
+- Milvus
+
+Similarity search methods:
+- Cosine similarity
+- Euclidean distance
+- Dot product
+
+Vector databases are widely used in Retrieval-Augmented Generation (RAG) systems.

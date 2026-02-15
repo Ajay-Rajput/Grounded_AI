@@ -1,0 +1,15 @@
+Retrieval-Augmented Generation (RAG) combines retrieval systems with large language models.
+
+RAG works in three steps:
+1. Chunk documents
+2. Convert chunks into embeddings
+3. Retrieve relevant chunks for a query
+
+The retrieved context is passed to a language model to generate grounded answers.
+
+Advantages of RAG:
+- Reduces hallucination
+- Improves factual accuracy
+- Enables domain-specific knowledge integration
+
+Top-K retrieval is commonly used to fetch the most relevant chunks.
