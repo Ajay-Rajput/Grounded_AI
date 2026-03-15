@@ -46,10 +46,12 @@ if not api_key:
 # -------------------- LOAD SYSTEM --------------------
 @st.cache_resource
 def load_system():
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    DATA_DIR = os.path.join(BASE_DIR, "data")
     documents = []
-    for file in os.listdir("data"):
+    for file in os.listdir(DATA_DIR):
         if file.endswith(".txt"):
-            with open(os.path.join("data", file), "r", encoding="utf-8") as f:
+            with open(os.path.join(DATA_DIR, file), "r", encoding="utf-8") as f:
                 documents.append(f.read())
 
     retriever = Retriever()
